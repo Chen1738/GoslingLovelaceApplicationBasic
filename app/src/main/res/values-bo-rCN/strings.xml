@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">GoslingLovelace</string>
     <string name="james_text">
-        詹姆斯·高斯林(James Gosling)从卡尔加里大学(University of Calgary[4])获得了理学学士学位，并获得了卡内基梅隆大学(Carnegie Mellon University)的硕士和博士学位。[2][5][6]在攻读博士学位期间，他编写了一种名为Gosling Emacs的Emacs版本。在加入太阳微系统之前，他在卡内基梅隆大学(Carnegie Mellon University)建立了一个多处理器版本的Unix，用于16路计算机系统[7]。他还开发了几个编译器和邮件系统。
+            詹姆斯·高斯林(James Gosling)从卡尔加里大学(University of Calgary[4])获得了理学学士学位，并获得了卡内基梅隆大学(Carnegie Mellon University)的硕士和博士学位。[2][5][6]在攻读博士学位期间，他编写了一种名为Gosling Emacs的Emacs版本。在加入太阳微系统之前，他在卡内基梅隆大学(Carnegie Mellon University)建立了一个多处理器版本的Unix，用于16路计算机系统[7]。他还开发了几个编译器和邮件系统。
 高斯林在1984年至2010年(26年)期间与太阳微系统公司合作。他在从PERQ编写程序到端口软件时，得到了Java VM的想法。
     </string>
     <string name="ada_text">
